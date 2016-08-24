@@ -9,7 +9,7 @@ This repository hosts the HTML, CSS, images, and posts for [gitready.com](http:/
 
 ## Publishing
 
-This blog is generated with the [Jekyll](http://github.com/mojombo/jekyll) engine. Simple and easy formatting that sticks to the basics. All static HTML too, so worrying about scalability is non-existent.
+This blog is generated with the [Jekyll](http://github.com/mojombo/jekyll) engine. Simple and easy formatting that sticks to the basics. All static HTML too, so worrying about scalability is non-existent..
 
 ## Contributing
 
